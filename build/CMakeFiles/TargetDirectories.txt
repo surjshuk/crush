@@ -1,0 +1,3 @@
+/home/surajshukla/Desktop/Personal/crush/build/CMakeFiles/Crush.dir
+/home/surajshukla/Desktop/Personal/crush/build/CMakeFiles/edit_cache.dir
+/home/surajshukla/Desktop/Personal/crush/build/CMakeFiles/rebuild_cache.dir
